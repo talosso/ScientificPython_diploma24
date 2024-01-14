@@ -9,7 +9,7 @@ Since software management is not officially part of this course, we will only co
 
 ### What is git?
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 ### What is github?
 
@@ -24,6 +24,7 @@ make sure that you have `git` installed.
 initialize it (or it will complain the first time you do anything):
 
 `git config --global user.name "Whatever Name"`
+
 `git config --global user.email whatever@whatever`
 
 
@@ -40,7 +41,7 @@ git clone THE_LINK_YOU_COPIED
 in our case, it's 
 
 ```
-git clone https://github.com/sissa/ScientificPython_diploma23.git
+git clone https://github.com/sissa/ScientificPython_diploma24.git
 ```
 
 Every day before the lecture (or when I tell you that I've updated the repository), you can do
@@ -186,7 +187,7 @@ What happens?
 
 
 
-### conda
+#### conda
 
 the best way to install Python and manage the environments is using `conda`. You can choose between `anaconda` and `miniconda`, the latter being preferable as it's much smaller (doesn't install much by default).
 
